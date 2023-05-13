@@ -1,2 +1,2 @@
-# timm-downloader
-timm-ckpts downloader
+# ckpts-downloader
+pytorch-ckpts downloader
